@@ -1,0 +1,1310 @@
+fileFormatVersion: 2
+guid: 867001788f2e1444c85313b92fcf9d74
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyFox_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 44
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a006b579919ab241bf6aa615c27848f
+      internalID: -390440620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 511
+        width: 49
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76184fde8052e6446ac167b21f32fa59
+      internalID: 860015116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 511
+        width: 52
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee35b29b365c4478a160b9f3ea53f8
+      internalID: 1557478310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 511
+        width: 55
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3902fdb106a7be34582a9c38def0e814
+      internalID: -1181525701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 511
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80865ba1fad20914fa51f583d514b4b6
+      internalID: -1464144391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 511
+        width: 53
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2c13b563e3c124897b3fedddd585b8
+      internalID: -1473035101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 511
+        width: 50
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8815ea6e690559446b45ee8cd209596d
+      internalID: -1567134531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 511
+        width: 43
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76883c9e8675d14f84ee34dc98a2831
+      internalID: -1633428138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_8
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 511
+        width: 44
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a020e7fd452f04eab31b7b798b55d0
+      internalID: 1199559352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 511
+        width: 41
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec03322f855ed054493639e14764ef43
+      internalID: 558418094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_10
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 511
+        width: 44
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b4ca6a90e9a944ebde67de00dc6e4f
+      internalID: 2118706016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 406
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8cf22be52151b478fc68e3bda15f96
+      internalID: -432431191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 406
+        width: 49
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd562e32898f294bb651f942d879786
+      internalID: 218168571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 406
+        width: 49
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a038d9bc4f49c449c4c190986772a9
+      internalID: 167550769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 406
+        width: 50
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cdb10e2d3af0045912c98a338885e2
+      internalID: 1465226156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 406
+        width: 49
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85979ec89309d284faf7a8eed365b263
+      internalID: 573171655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 406
+        width: 47
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e16648e88ffa894ba56063823de0903
+      internalID: 518646846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 406
+        width: 45
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d756e418f5de374c9c14a538b721dfa
+      internalID: 1548689869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 406
+        width: 63
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e457a8d99daaba34aa50d2c2683a2617
+      internalID: -2147209037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_19
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 406
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c692254e526d1409ce16e8dbb33714
+      internalID: -1648273944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 48
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25ccb35e68a71249b5648854e26e1cc
+      internalID: 2052304948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 301
+        width: 45
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e4d5fffb5b2114992fc0d88a2453f9
+      internalID: -1988846096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 301
+        width: 52
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac5657663d52a74f9b77e2fea49a13b
+      internalID: -887714345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 301
+        width: 61
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7914c5428d9497548bb1b01cfc694496
+      internalID: -2061026324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 301
+        width: 72
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0200fd25a14812744bc822aa4d62f5a9
+      internalID: -385791270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_25
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 301
+        width: 72
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625c8d57ee4dbf549b4c0d1d669c30a0
+      internalID: -1976135549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_26
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 301
+        width: 57
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676179ea3ce4e949a25325abe248741
+      internalID: 1468592118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_27
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 301
+        width: 61
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b16097358072f459074059fef1c9b8
+      internalID: -849775855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_28
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 301
+        width: 64
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df312b8e4d15155488e03ef8f69044c6
+      internalID: -546123710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 56
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89ca97d61eeaa4f80cb9fdb42de0d9
+      internalID: -82719380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 199
+        width: 56
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa69237c6fb880d43b06b638f5a70722
+      internalID: -665342636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 199
+        width: 59
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7140de5b1b0790419d4f0a04d1df042
+      internalID: -783301221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 199
+        width: 64
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711bc18efba64c4458e95cb7da6ebf8c
+      internalID: -958800480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 199
+        width: 77
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d479489a614b42aa7e7eaa2bd0ec0
+      internalID: 2076055172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 199
+        width: 77
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e99984bb200ba4d98f151f390df71c
+      internalID: -1268912210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_35
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 199
+        width: 73
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfde74a087da924ca8c5df25e4e84ec
+      internalID: -165128535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_36
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 199
+        width: 70
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c9b5c58d9ed54c975411c0944da2f
+      internalID: -63044368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_37
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 199
+        width: 60
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60568f34596dfa4381f902211f0a3b9
+      internalID: -284313464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 88
+        width: 74
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d7b74a1e4b5e449862f8492379f3ca
+      internalID: 1822938194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 88
+        width: 62
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe8d93bfbcc6b04b82d75e7d9f8543e
+      internalID: 1048043367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 88
+        width: 54
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a26857cb12fb44f9100c1294a7ec0d
+      internalID: -1334956022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_41
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 88
+        width: 62
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baecfc61ad2274044b197d83758b3813
+      internalID: 329282646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_42
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 87
+        width: 73
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09166729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c606dfa15e35245b0059dc38b7ca81
+      internalID: 666903724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_43
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 88
+        width: 90
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5000014, y: 0.2697409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a9168db1c103429bafe9e44701c3c
+      internalID: -1925240548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 93
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1708475ddfb261443b717fd70e9e2c08
+      internalID: -1877172809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 91
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5ae267ad64ee458a8103cb0d9ec8d
+      internalID: -15962601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_77
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 96
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c648c9b381eb52469df35622f79266a
+      internalID: -1510887419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_78
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 88
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4639f496460981d428d089703854003d
+      internalID: -825243127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1
+        width: 72
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef664cc47e6e330429c48e9748cb434e
+      internalID: 461530775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1
+        width: 104
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1304a02bb3051384f9d81e09e164ae9c
+      internalID: -1001163325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_81
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1
+        width: 104
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6fb7ea3d555d945af34fe55ae9a17b
+      internalID: -1444718109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyFox_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1
+        width: 104
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff67cb93c34043d47bb12fe0fac29aca
+      internalID: -615185397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemyFox_46: 1776131332
+      EnemyFox_57: -1369823626
+      EnemyFox_62: 540998476
+      EnemyFox_72: 282815367
+      EnemyFox_59: 1242718468
+      EnemyFox_73: 210944340
+      EnemyFox_77: -1510887419
+      EnemyFox_22: -887714345
+      EnemyFox_14: 1465226156
+      EnemyFox_76: -15962601
+      EnemyFox_34: -1268912210
+      EnemyFox_58: 1001600041
+      EnemyFox_8: 1199559352
+      EnemyFox_65: 1886781222
+      EnemyFox_19: -1648273944
+      EnemyFox_45: 1752832776
+      EnemyFox_79: 461530775
+      EnemyFox_40: -1334956022
+      EnemyFox_21: -1988846096
+      EnemyFox_81: -1444718109
+      EnemyFox_15: 573171655
+      EnemyFox_29: -82719380
+      EnemyFox_60: 593219716
+      EnemyFox_0: -390440620
+      EnemyFox_31: -783301221
+      EnemyFox_44: 1992570255
+      EnemyFox_32: -958800480
+      EnemyFox_82: -615185397
+      EnemyFox_20: 2052304948
+      EnemyFox_5: -1473035101
+      EnemyFox_71: -446050503
+      EnemyFox_26: 1468592118
+      EnemyFox_41: 329282646
+      EnemyFox_78: -825243127
+      EnemyFox_53: -1298200755
+      EnemyFox_1: 860015116
+      EnemyFox_66: -696216860
+      EnemyFox_16: 518646846
+      EnemyFox_43: -1925240548
+      EnemyFox_6: -1567134531
+      EnemyFox_11: -432431191
+      EnemyFox_52: 1330227101
+      EnemyFox_4: -1464144391
+      EnemyFox_23: -2061026324
+      EnemyFox_10: 2118706016
+      EnemyFox_17: 1548689869
+      EnemyFox_35: -165128535
+      EnemyFox_70: 507876333
+      EnemyFox_74: -1591308375
+      EnemyFox_36: -63044368
+      EnemyFox_13: 167550769
+      EnemyFox_75: -1877172809
+      EnemyFox_12: 218168571
+      EnemyFox_80: -1001163325
+      EnemyFox_55: 1344442244
+      EnemyFox_39: 1048043367
+      EnemyFox_42: 666903724
+      EnemyFox_2: 1557478310
+      EnemyFox_54: 818361035
+      EnemyFox_33: 2076055172
+      EnemyFox_51: -2042999385
+      EnemyFox_64: -702657612
+      EnemyFox_49: 639122588
+      EnemyFox_27: -849775855
+      EnemyFox_7: -1633428138
+      EnemyFox_38: 1822938194
+      EnemyFox_63: -756081408
+      EnemyFox_69: -401030534
+      EnemyFox_3: -1181525701
+      EnemyFox_56: -589056139
+      EnemyFox_50: -76181926
+      EnemyFox_37: -284313464
+      EnemyFox_47: -1630877154
+      EnemyFox_48: -1786446034
+      EnemyFox_9: 558418094
+      EnemyFox_28: -546123710
+      EnemyFox_61: -599577537
+      EnemyFox_30: -665342636
+      EnemyFox_68: 919841985
+      EnemyFox_24: -385791270
+      EnemyFox_18: -2147209037
+      EnemyFox_67: -784232767
+      EnemyFox_25: -1976135549
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
